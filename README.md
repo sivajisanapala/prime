@@ -1,2 +1,2 @@
-# My-Admin
+# Prime
 Admin Designs
